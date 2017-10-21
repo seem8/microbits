@@ -1,7 +1,7 @@
 # microbits
 Some apps for BBC Microbit boards.
 -----------------------------------------------------------
-Right now it's onlny Tamagochi app. Here's how you play:
+Right now it's onlny Snakey (like Tamagochi) app. Here's how you play:
 left button is heal,
 right button is feed,
 pin0 is pet,
